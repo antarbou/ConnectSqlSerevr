@@ -1,0 +1,12 @@
+D:\GS\ConnectSqlServer\ConnectSqlServer\bin\Debug\ConnectSqlServer.exe
+D:\GS\ConnectSqlServer\ConnectSqlServer\bin\Debug\ConnectSqlServer.pdb
+D:\GS\ConnectSqlServer\ConnectSqlServer\bin\Debug\ConnectSqlServer.xml
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ResolveAssemblyReference.cache
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.Form1.resources
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.frmInsert.resources
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.Resources.resources
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.vbproj.GenerateResource.Cache
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.exe
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.xml
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.pdb
+D:\GS\ConnectSqlServer\ConnectSqlServer\obj\Debug\ConnectSqlServer.frmUpdate.resources

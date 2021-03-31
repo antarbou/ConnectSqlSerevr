@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConnectSqlServer", "ConnectSqlServer\ConnectSqlServer.vbproj", "{B189CC76-B32E-4780-AE19-8F484F65B098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B189CC76-B32E-4780-AE19-8F484F65B098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B189CC76-B32E-4780-AE19-8F484F65B098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B189CC76-B32E-4780-AE19-8F484F65B098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B189CC76-B32E-4780-AE19-8F484F65B098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
